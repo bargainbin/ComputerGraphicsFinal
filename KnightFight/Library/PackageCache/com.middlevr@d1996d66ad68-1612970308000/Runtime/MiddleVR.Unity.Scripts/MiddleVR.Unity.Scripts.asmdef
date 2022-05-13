@@ -1,0 +1,14 @@
+{
+    "name": "MiddleVR.Unity.Scripts",
+    "references": [
+        "MiddleVR.Unity"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

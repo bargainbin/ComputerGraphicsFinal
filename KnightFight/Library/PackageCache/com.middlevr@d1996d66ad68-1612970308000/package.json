@@ -1,0 +1,13 @@
+{
+  "name": "com.middlevr",
+  "displayName": "MiddleVR",
+  "version": "2.2.0",
+  "unity": "2018.4",
+  "description": "MiddleVR - Multi-display, cluster rendering, VR",
+  "keywords": [
+    "vr",
+    "xr",
+    "reality",
+    "xreditorsubsystem"
+  ]
+}
